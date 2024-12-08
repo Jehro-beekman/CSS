@@ -1,0 +1,41 @@
+<style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #e0f7fa;
+            color: #004d40;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background-color: #00796b;
+            color: white;
+            padding: 20px;
+            text-align: center;
+        }
+        section {
+            padding: 20px;
+            text-align: center;
+        }
+        h1 {
+            margin-bottom: 0;
+        }
+        p {
+            margin-top: 5px;
+            font-size: 18px;
+        }
+        .island-image {
+            width: 100%;
+            max-width: 600px;
+            margin: 20px auto;
+            display: block;
+        }
+        //position: fixed;
+        footer {
+            background-color: #00796b;
+            color: white;
+            text-align: center;
+            padding: 10px;
+            bottom: 0;
+            width: 100%;
+        }
+    </style>
